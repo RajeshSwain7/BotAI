@@ -1,0 +1,58 @@
+
+
+.editBtn {
+    font-size: 1.7rem;
+}
+
+.editBtn:hover {
+    cursor: pointer;
+    color: rgb(244, 241, 250);
+}
+
+.log {
+    width: 100;
+}
+
+.log:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.btnPromt{
+    background-color: #bb9fef;
+}
+
+.btnPromt:hover{
+    cursor: pointer;
+    background-color: rgb(244, 241, 250);
+}
+
+.pastCon {
+    width: 175px;
+    background-color: #D7C7F4;
+}
+
+.pastCon:hover {
+   cursor: pointer;
+   background: rgb(244, 241, 250);
+}
+
+.itemHover {
+    background-color: white;
+}
+
+.itemHover:hover {
+    cursor: pointer;
+    background-color: #D7C7F4;
+}
+
+
+
+.btnHover {
+    background-color: #D7C7F4;
+} 
+
+.btnHover:hover {
+    cursor: pointer;
+    background-color: #bb9fef;
+}

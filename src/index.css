@@ -1,0 +1,15 @@
+*{
+  padding: 0;margin: 0;
+}
+
+
+html, body{
+  background: rgb(215,199,244);
+  background: linear-gradient(0deg, rgba(215,199,244,1) 0%, rgba(255,255,255,1) 100%);
+  background-attachment: fixed;
+  background-size: cover;
+  height: auto;
+  position: relative;
+}
+
+
